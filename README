@@ -1,0 +1,4 @@
+1. Create a MonoTouch binding project.
+2. Add the contents of ApiDefinition and StrutsAndEnums.
+3. Add the Redpark SDK files to your binding project
+4. Edit the libSrcMgrUniv.linkwith.cs file to match the one included here
